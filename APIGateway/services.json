@@ -1,0 +1,32 @@
+[
+  {
+    "ServiceId": "0c8ab7a3-9083-4ab1-9e0b-95191d572824",
+    "Name": "userservice",
+    "Host": "localhost",
+    "Port": 5001
+  },
+  {
+    "ServiceId": "8a65bff3-50d3-460d-a58d-fe535e8a2838",
+    "Name": "cardservice",
+    "Host": "localhost",
+    "Port": 5002
+  },
+  {
+    "ServiceId": "8a65bff3-50d3-460d-a58d-fe535e8a2839",
+    "Name": "employeeservice",
+    "Host": "localhost",
+    "Port": 5003
+  },
+  {
+    "ServiceId": "8a65bff3-50d3-460d-a58d-fe535e8a2840",
+    "Name": "visitorservice",
+    "Host": "localhost",
+    "Port": 5004
+  },
+  {
+    "ServiceId": "8a65bff3-50d3-460d-a58d-fe535e8a2841",
+    "Name": "accessservice",
+    "Host": "localhost",
+    "Port": 5005
+  }
+]
